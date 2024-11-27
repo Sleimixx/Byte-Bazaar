@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+}
+
+.logo {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    padding-left: 15px;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color:#000000;
+    font-weight: bold;
+	padding-left: 15px;
+}
+
+footer {
+    background: #868686;
+    color: #868686;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 20px;
+}
